@@ -1,25 +1,20 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="achadha235.github.io/stranger-stickers-site" resolutions="1x" timestamp="1490068862828">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="achadha235.github.io/stranger-stickers-site" resolutions="1x" timestamp="1490069373812">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="206869541" ref="index"/>
+    <file name="index.css" crc="215108206" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="4148063285" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4179431180" ref="index"/>
-    <file name="webpro.js" crc="3986320349" ref="index"/>
     <file name="jquery.watch.js" crc="437028206" ref="index"/>
     <file name="require.js" crc="4159430777" ref="index"/>
-    <file name="form_check.php" crc="303648844" ref="index"/>
-    <file name="form_process.php" crc="4272079531" ref="index"/>
-    <file name="form-u113.php" crc="3928305352" ref="index"/>
-    <file name="form_throttle.php" crc="236764551" ref="index"/>
   </folder>
   <folder name="images">
     <file name="u102-4.png" crc="372248613" ref="index"/>
-    <file name="u105-4.png" crc="4028636362" ref="index"/>
-    <file name="u169-5.png" crc="149357657" ref="index"/>
+    <file name="pasted image 320x425.png" crc="3992649895" seo="true" ref="index"/>
+    <file name="u169-6.png" crc="177821829" ref="index"/>
   </folder>
-  <file name="index.html" crc="331123354" seo="true" mt="1490068822891" redirect="true"/>
+  <file name="index.html" crc="478810315" seo="true" mt="1490069344797" redirect="true"/>
 </manifest>
