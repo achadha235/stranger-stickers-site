@@ -30,47 +30,8 @@ $form = array(
 		'from' => '407studio.help@gmail.com',
 		'to' => '407studio.help@gmail.com'
 	),
-	'recaptcha2' => array(
-		'private_key' => '6LeQvxkUAAAAAJf1qwDSerC2GmSzVHHrtgHVolOg'
-	),
 	'fields' => array(
-		'custom_U117' => array(
-			'order' => 1,
-			'type' => 'string',
-			'label' => 'Name',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Name\' is required.'
-			)
-		),
-		'Email' => array(
-			'order' => 2,
-			'type' => 'email',
-			'label' => 'Email',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Email\' is required.',
-				'format' => 'Field \'Email\' has an invalid email.'
-			)
-		),
-		'custom_U126' => array(
-			'order' => 3,
-			'type' => 'string',
-			'label' => 'Message',
-			'required' => false,
-			'errors' => array(
-			)
-		),
-		'g-recaptcha-response' => array(
-			'order' => 4,
-			'type' => 'recaptcha2',
-			'label' => 'Image Verification',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Image Verification\' is required.',
-				'format' => 'Incorrect reCAPTCHA 2.0 value.'
-			)
-		)
+
 	)
 );
 
