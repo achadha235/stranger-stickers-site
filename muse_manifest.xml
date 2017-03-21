@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="achadha235.github.io/stranger-stickers-site" resolutions="1x" timestamp="1490069373812">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="achadha235.github.io/stranger-stickers-site" resolutions="1x" timestamp="1490069546473">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="215108206" ref="index"/>
+    <file name="index.css" crc="3991830517" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,5 +16,5 @@
     <file name="pasted image 320x425.png" crc="3992649895" seo="true" ref="index"/>
     <file name="u169-6.png" crc="177821829" ref="index"/>
   </folder>
-  <file name="index.html" crc="478810315" seo="true" mt="1490069344797" redirect="true"/>
+  <file name="index.html" crc="4173299052" seo="true" mt="1490069533961" redirect="true"/>
 </manifest>
